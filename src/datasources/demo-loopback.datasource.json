@@ -1,0 +1,10 @@
+{
+  "name": "demo_loopback",
+  "connector": "mysql",
+  "url": "mysql://root:@localhost/demo_loopback",
+  "host": "localhost",
+  "port": 3306,
+  "user": "root",
+  "password": "",
+  "database": "demo_loopback"
+}
